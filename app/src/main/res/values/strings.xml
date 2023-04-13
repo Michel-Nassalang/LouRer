@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">LouRer</string>
+    <string name="statut_objet">Statut</string>
+    <string name="msg_token_fmt">lourer</string>
+    <string-array name="options_perdu">
+        <item>Perdu</item>
+        <item>Trouvé</item>
+        <item>Sur récompense</item>
+    </string-array>
+    <string-array name="options_trouve">
+        <item>Trouvé</item>
+        <item>Perdu</item>
+        <item>Sur récompense</item>
+    </string-array>
 </resources>
